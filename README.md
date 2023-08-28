@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshithadil)](https://github.com/lakshithadil/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithadil&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
