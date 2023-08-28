@@ -1,8 +1,7 @@
-## Hi, hello there 👋
+## Hi there! 👋 I'm Lakshitha Dilshan
 
-### Who am I?
+Welcome to my GitHub profile! I'm incredibly passionate about learning and researching new things in the world of technology. Join me on this exciting journey of exploration and innovation!
 
-I'm lakshitha dilshan, and I'm on an exciting journey of continuous learning and innovative exploration. I'm passionate to learn and research new things.
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshithadil&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
